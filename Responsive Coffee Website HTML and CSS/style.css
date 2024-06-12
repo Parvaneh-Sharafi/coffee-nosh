@@ -11,9 +11,9 @@
 /* Defining Custome Variables */
 :root {
   /* Colors */
-  --primary-color: #4256c9;
-  --secondary-color: #043026;
-  --dark-color: #060422;
+  --primary-color: #533011ec;
+  --secondary-color: #db9a44;
+  --dark-color: #533011ec;
   --white-color: #fff;
   --light-gray-color: #f2f2f2;
 
@@ -431,7 +431,7 @@ label .close_btn {
 
 /* Footer Section */
 footer {
-  background: #090130;
+  background: #533011ec;
   color: var(--white-color);
   padding: 60px 20px;
 }
